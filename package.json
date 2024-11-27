@@ -31,11 +31,9 @@
     "url": "https://github.com/expatfile/next-runtime-env/issues"
   },
   "homepage": "https://github.com/expatfile/next-runtime-env#readme",
-  "dependencies": {
-    "next": "^14",
-    "react": "^18"
-  },
   "devDependencies": {
+    "next": "^14",
+    "react": "^18",
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.2",
     "@types/eslint": "^8.56.6",
